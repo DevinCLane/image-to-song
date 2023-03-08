@@ -1,3 +1,3 @@
-# image-to-song
-Hear a song that is created based on an image. Click a button for the next image. 
+# Image to Song
+Preliminary prototype. See [Musical Image Scanner](https://github.com/DevinCLane/musical-image-scanner) for completed application.
 
